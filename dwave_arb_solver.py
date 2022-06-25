@@ -1,4 +1,4 @@
-import arbtoqubo_v2 as atq
+import arbtoqubo as atq
 import math
 import numpy as np
 import csv
